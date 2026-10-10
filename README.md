@@ -4,6 +4,10 @@
 
 > Configuration findings show policy risks only. They do not prove that a service is reachable, vulnerable, or exploitable.
 
+## Live demo
+
+Try the deployed application: [Firewall Sentinel on Streamlit Community Cloud](https://firewall-sentinel-wuplqjxsz8sj3qyj8zm8bj.streamlit.app)
+
 ## Features
 
 - Upload a firewall-rule CSV or load the included demo rules.
