@@ -1,0 +1,11 @@
+# Python virtual environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.agents/
+
+# macOS Finder metadata
+.DS_Store
+
+# Local Streamlit secrets must never be committed
+.streamlit/secrets.toml
